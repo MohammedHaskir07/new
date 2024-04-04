@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1712254143 source:c:\users\pc\documents\language_c\firstproject\rh project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1712254463 c:\users\pc\documents\language_c\firstproject\rh project\header.h
+
